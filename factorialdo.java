@@ -11,6 +11,6 @@ public class DOWHILEfactorial{
             }
             System.out.print("El factorial del numero" + num + " es "+ fact);
             resp = (Byte)Byte.parseByte(JOptionPane.showInputDialog("Ingresa el numero 1 si deseas otro calculo"));
-        }while(resp==1);
+        }while(resp==5);
     }
 }
