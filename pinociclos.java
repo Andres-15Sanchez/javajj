@@ -1,6 +1,6 @@
 public class PINOCICLOS {
     public static void main(String[] args) {
-        int altura=5;
+        int altura=10;
         for (int x = 0; x <= altura; x ++){
             
         
