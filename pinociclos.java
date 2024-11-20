@@ -10,7 +10,7 @@ public class PINOCICLOS {
             for (int k = 1; k <= (2 * x + 1) ; k++){
                 System.out.print("*");
             }
-            System.out.println(JD);
+            System.out.println();
             }
         
         
