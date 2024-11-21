@@ -2,7 +2,7 @@ public class DOWHILEfactorial{
     public static void main(String[] args) {
         short num;
         double fact = 1;
-        int x = 2;
+        int x = 1;
         byte resp =1;
         do{
             num = (Short)Short.parseShort(JOptionPane.showInputDialog("Ingresa un numero"));
