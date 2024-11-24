@@ -41,4 +41,3 @@ public class java {
         JOptionPane.showMessageDialog(null,"El area dela figura es:  " + AREA);
     }//Cierra el metodo MAIN
 }// Cierrra la CLASE
-case 
