@@ -42,3 +42,6 @@ public class java {
     }//Cierra el metodo MAIN
 }// Cierrra la CLASE
 case jbbj
+do (dnfnn){
+    
+}
