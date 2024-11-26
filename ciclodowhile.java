@@ -17,6 +17,7 @@ public class ciclowhile {
            altura = Float.parseFloat (JOptionPane.showInputDialog("Ingresa tu altura en formato de  metros"));
             imc = (Float) (peso /(altura * altura)) ;
             if(imc < 18.49){
+                vjgghdfhdf
                 JOptionPane.showMessageDialog(null,"Peso bajo");
             }else if( imc >= 18.50 && imc <= 24.99) {
                JOptionPane.showMessageDialog(null,"Peso Normal"); 
