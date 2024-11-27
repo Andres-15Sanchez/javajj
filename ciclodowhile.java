@@ -22,7 +22,6 @@ public class ciclowhile {
             }else if( imc >= 18.50 && imc <= 24.99) {
                JOptionPane.showMessageDialog(null,"Peso Normal"); 
             }else if (imc >=25 && imc <=29.99){
-                hjhkhk
                 JOptionPane.showMessageDialog(null,"Sobrepeso");
             }else if(imc>= 30 && imc <= 34.99){
                 JOptionPane.showMessageDialog(null,"Sobrepeso Level");
