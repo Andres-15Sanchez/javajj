@@ -26,10 +26,10 @@ public class PINOCICLOS {
             }
     }
 }
-if {
+if (gdhggj==ggg) {
 
 }else if{
     do{
-        
+
     }
 }
