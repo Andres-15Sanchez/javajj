@@ -1,4 +1,4 @@
-public class PINOCICLOS {
+public class pinociclos {
     public static void main(String[] args) {
         int altura=5;
         for (int x = 0; x <= altura; x ++){
@@ -25,7 +25,4 @@ public class PINOCICLOS {
                 System.out.println();
             }
     }
-}
-if (gdhggj==ggg) {
-
 }
