@@ -51,5 +51,5 @@ public class AREGLOS {
 
         // Imprimir el promedio general
         System.out.printf("Promedio general de todas las materias: %.2f%n", promedioGeneral);
-    }while(hsdudf)
+    }while(presi==3)
 }
