@@ -24,6 +24,9 @@ public class multiplicaciondearreglos{
             }
         }
         
+        for(int i = 0 ; i < t1.length; i++){
+            
+        }
         
         for (int i = 0; i < t1.length; i++) {
             for (int j = 0; j < t1.length; j++) {
