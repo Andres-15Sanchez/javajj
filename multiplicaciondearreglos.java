@@ -25,8 +25,8 @@ public class multiplicaciondearreglos{
         }
         
         for(int i = 0 ; i < t1.length; i++){
-            for (int j = 0; j < t2.length; j++) {
-                System.out.println();
+            for(int j = 0; j < t2.length; j++){
+                System.out.println(multi[i][j] );
                 System.out.println();
             }
         }
